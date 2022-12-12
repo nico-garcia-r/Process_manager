@@ -4,7 +4,7 @@ Web service of Process Manager
 
 *Read this in other languages: [English](Manual_Process_Manager.md), [Español](Manual_Process_Manager.es.md), [Portugues](Manual_Process_Manager.pr.md).*
   
-![banner](/docs/imgs/Banner_D:\Rocketbot\modules\Process_manager.png)
+![banner](imgs/Banner_Process_manager.png)
 ## Como instalar este módulo
   
 __Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
