@@ -43,7 +43,7 @@ try:
             self.close_session = self.service.closeSession
             
         def open_session(self, contract, service, application, secret):
-            print(self.ping())
+            print(self.ping()) 
             self.session = self.service.openSession(contract=contract, service=service, application=application, secret=secret)
             return self.session            
 

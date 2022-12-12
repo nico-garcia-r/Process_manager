@@ -19,7 +19,7 @@ Abre una nueva sessión
 2. Abortar instancia  
 Aborta la instancia de un proceso
 
-3. Iniciar Proceso  
+3. Iniciar Proceso 
 Inicia un Proceso
 
 4. Iniciar Proceso con atributos  

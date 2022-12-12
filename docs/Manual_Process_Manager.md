@@ -1,6 +1,6 @@
 # Process Manager
   
-Web service of Process Manager  
+Web service of Process Manager 
 
 *Read this in other languages: [English](Manual_Process_Manager.md), [Español](Manual_Process_Manager.es.md), [Portugues](Manual_Process_Manager.pr.md).*
   

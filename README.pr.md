@@ -16,7 +16,7 @@ __Baixe__ e __instale__ o conteúdo na pasta 'modules' no caminho do Rocketbot
 1. Abrir Sessão  
 Abra uma nova sessão
 
-2. Abortar instância  
+2. Abortar instância 
 Aborta a instância de um processo
 
 3. Iniciar o processo  

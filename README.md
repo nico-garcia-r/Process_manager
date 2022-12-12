@@ -13,31 +13,31 @@ __Download__ and __install__ the content in 'modules' folder in Rocketbot path
 ## Overview
 
 
-1. Open Session  
+1. Open Session 
 Open a new session
 
-2. Abort instance  
+1. Abort instance  
 Abort the instance of a process
 
-3. Start Process  
+1. Start Process  
 Starts a Process
 
-4. Start Process with attributes  
+1. Start Process with attributes  
 Starts a Process with attributes sent by parameter
 
-5. Assume task  
+1. Assume task  
 Take responsibility for a task.
 
-6. Finish task  
+1. Finish task  
 Finish a task
 
-7. Get attribute  
+1. Get attribute  
 Returns the value (or values) of the attribute of a process
 
-8. Set attribute  
+1. Set attribute  
 Change the attribute value of a process
 
-9. Close Session  
+1. Close Session  
 Close the current session  
 
 
